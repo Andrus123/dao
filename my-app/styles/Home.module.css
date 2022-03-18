@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(66, 124, 58); 
 }
 
 .footer {
@@ -13,6 +14,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  background-color: rgb(184, 144, 11);
+  color: #eaeaea;
 }
 .title{
   font-size: 2rem;
@@ -25,7 +28,7 @@
 }
 .button {
   border-radius: 4px;
-  background-color: blue;
+  background-color: rgb(219, 30, 55);
   border: none;
   color: #ffffff;
   font-size: 15px;
